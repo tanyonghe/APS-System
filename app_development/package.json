@@ -20,7 +20,7 @@
     "react-native-push-notification": "^3.1.8",
     "react-native-webview": "^5.12.1",
     "react-navigation": "^3.11.0",
-    "ws": "^7.1.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@babel/core": "^7.5.4",
